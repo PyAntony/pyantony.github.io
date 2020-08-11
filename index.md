@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## Hola! 
 
-You can use the [editor on GitHub](https://github.com/PyAntony/pyantony.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am Antony from NY. I am a software engineer with a passion for big data technologies and machine learning. I have experience developing applications for data collection and setting up entire data pipelines. I am also experienced in data science, especially in the fields of time series analysis and NLP. I enjoy to learn new frameworks, put ideas to the test (naturally skeptical), and automate repetitive tasks 🤖. And, because I can’t say it enough, I love functional programming. Monads rock! 🤘
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am currently completing a master’s degree in software engineering (only the final capstone left). I am open to new opportunities now, so let’s roll up our sleeves and build things together.  
 
-### Markdown
+### Skills
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Fluent in Java, Scala, and Python. 
+- Experience with multiple databases: Cassandra, HBase, Redis, MongoDB, ElasticSearch, Redshift, PostgreSQL.
+- Working experience with the AWS ecosystem: EMR, Aurora, Kinesis, Lambda, EC2, S3.  
+- Big Data tools: Spark, Hdfs, Kafka, Flume, MapReduce.
+- Proficient with Python ML libraries: NumPy, Pandas, Scikit-learn, PyTorch, Keras, 🤗 Transformers.
 
-```markdown
-Syntax highlighted code block
+### Projects:
 
-# Header 1
-## Header 2
-### Header 3
+▫ *Blockchain Ledger* - [README](https://sites.google.com/view/antony-gavidia/home/blockchain)  
+Implementation of a blockchain ledger in Java. It handles transaction processing (users and balances validation), user accounts, and blocks (hash authentication and chain validation). It also implements a DSL and a file parser to process multiple commands from a text file.  
+  
+▫ *Blockchain Ledger with ZIO!* - [README](https://github.com/PyAntony/zio-blockchain)  
+Implementation of a blockchain ledger with Scala using the [ZIO framework](https://zio.dev/). Similar to the ledger above, but with full support for transaction management and concurrency.  
+  
+▫ *NLP Topic Modeling* - [README](https://github.com/PyAntony/nlp-topic-modeling)  
+Topic modeling application to extract top features and topics from a corpus. It supports supervised and unsupervised modes using Logistic Regression and Latent Dirichlet Allocation.  
+  
+▫ *Hate Speech Prediction* - [README](https://github.com/PyAntony/hate-speech)  
+Project develops a model for binary classification on hate speech sentences. It uses the famous Bert (Bidirectional Encoder Representations from Transformers) model and compares fine-tuning vs. embedding strategies.   
+  
+▫ *Roshi Bets* - [README](https://github.com/PyAntony/video-games-betting-app)  
+Prototype for a videogame betting app. Project aims to connect amateur gamers (home-streamed games) with gamblers. The goal is to heighten the competitiveness in small/local gaming events and let people earn some money in the process. Implemented with the Django framework.  
 
-- Bulleted
-- List
+### Get in Touch:
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PyAntony/pyantony.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+More projects &#8594; [GitHub Profile](https://github.com/PyAntony)  
+More about me &#8594; [LinkedIn](https://www.linkedin.com/in/antony-gavidia-198060142)  
+Email me &#8594; gavidia.antony@gmail.com  
