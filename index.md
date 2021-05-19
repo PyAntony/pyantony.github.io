@@ -1,8 +1,6 @@
 ## Hola! 
 
 I am Antony from ~~NY~~ (currently in Denver somehow). I am a software engineer with a passion for big data technologies and machine learning. I have experience developing applications for data collection and setting up entire data pipelines. I am also experienced in data science, especially in the fields of time series analysis and NLP. I enjoy to learn new frameworks, put ideas to the test (naturally skeptical), and automate repetitive tasks 🤖. And, because I can’t say it enough, I love functional programming. Monads rock! 🤘
-
-I am currently completing a master’s degree in software engineering (only the final capstone left). I am open to embark on new adventures now, so let’s roll up our sleeves and build things together.  
   
 ### Skills
 
